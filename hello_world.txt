@@ -1,0 +1,1 @@
+You can stage a current directory with: git add .
